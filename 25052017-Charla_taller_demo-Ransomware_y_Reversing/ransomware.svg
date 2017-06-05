@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ransomware.svg"
+   inkscape:export-filename="/home/fanta/tmp/carteles/taller-ransomware-y-reversing.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.50564231"
+     inkscape:cx="476.69239"
+     inkscape:cy="346.3633"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <image
+       sodipodi:absref="/home/fanta/tmp/carteles/imgs/001.jpg"
+       xlink:href="imgs/001.jpg"
+       width="1052.3622"
+       height="744.09448"
+       preserveAspectRatio="none"
+       id="image4537"
+       x="1.1053611e-05"
+       y="308.26773" />
+    <rect
+       style="opacity:0.46700003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4571"
+       width="1052.3622"
+       height="221.87006"
+       x="1.1053611e-05"
+       y="830.49219"
+       ry="0" />
+    <path
+       style="fill:#ea6956;fill-opacity:1"
+       d="m 434.95056,988.9529 c -0.21282,-0.2217 -3.08593,-2.8512 -6.38472,-5.8434 -3.29879,-2.9923 -6.28999,-5.7125 -6.64714,-6.045 -0.35715,-0.3326 -1.61282,-1.475 -2.79038,-2.539 -1.17756,-1.0638 -4.16689,-3.784 -6.64296,-6.045 -2.47606,-2.26073 -5.41341,-4.92655 -6.52742,-5.92391 -1.11403,-0.99748 -2.31995,-2.08551 -2.67983,-2.41809 -0.35988,-0.33245 -1.12803,-1.04226 -1.70698,-1.57736 -1.03435,-0.95602 -8.5712,-7.81429 -10.99133,-10.00172 -2.38499,-2.15566 -6.02935,-5.48383 -7.70856,-7.03973 -0.93314,-0.86463 -3.21921,-2.93201 -5.08014,-4.59418 -7.18836,-6.42057 -10.01547,-9.69552 -12.83681,-14.87026 -3.6798,-6.74926 -5.69706,-15.19318 -5.33922,-22.34906 0.48756,-9.74926 3.55993,-18.14828 9.33786,-25.52705 4.84383,-6.1859 12.02065,-11.40709 19.30349,-14.04347 5.22948,-1.89306 9.46293,-2.62077 15.16367,-2.60655 11.44564,0.0286 21.4561,3.94923 29.69099,11.62867 1.03628,0.96639 1.96337,1.75706 2.06021,1.75706 0.0969,0 0.8267,-0.60545 1.62193,-1.34547 6.80023,-6.32805 14.55111,-10.14852 23.57044,-11.61806 3.47552,-0.56627 10.12359,-0.56732 13.54072,-0.003 9.25972,1.5315 17.37355,5.67578 23.91037,12.21259 6.81202,6.81202 10.78088,14.42071 12.37492,23.72396 1.66201,9.69993 0.0401,19.39905 -4.71059,28.16953 -3.00181,5.54179 -4.38879,7.08437 -15.73439,17.49946 -5.45119,5.00412 -10.50292,9.64244 -11.22608,10.30738 -0.72316,0.66494 -1.92118,1.76291 -2.66228,2.43992 -0.74109,0.67701 -2.87485,2.63557 -4.74169,4.35237 -1.86684,1.7168 -4.57996,4.20952 -6.02917,5.53941 -1.44922,1.32981 -2.85855,2.6356 -3.13188,2.90153 -0.27332,0.26607 -0.98768,0.90694 -1.58749,1.4244 -0.59979,0.51746 -2.39338,2.14963 -3.98574,3.62703 -2.92001,2.7091 -5.05818,4.6817 -7.23824,6.6773 -0.65279,0.5977 -1.47582,1.3587 -1.82893,1.6911 -0.35312,0.3325 -1.65997,1.5293 -2.90409,2.6598 -3.36402,3.0566 -5.23298,4.7721 -7.17812,6.589 -0.96104,0.8977 -1.78023,1.623 -1.8204,1.6119 -0.0402,-0.013 -0.2472,-0.2014 -0.46002,-0.4231 z"
+       id="path4732"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4559"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(2.6409691,0,0,3.9204008,-259.05875,592.24778)"><flowRegion
+         id="flowRegion4561"><rect
+           id="rect4563"
+           width="757.14288"
+           height="285.71429"
+           x="111.42857"
+           y="66.951622"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara4565"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.42200851px;font-family:HACKED;-inkscape-font-specification:HACKED;fill:#ffffff">INGOBERLAB   301</flowPara><flowPara
+         style="font-size:25.42200851px;fill:#ffffff"
+         id="flowPara4569" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4573"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f26959;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-97.057179,290.26772)"><flowRegion
+         id="flowRegion4575"><rect
+           id="rect4577"
+           width="1079.5902"
+           height="219.55396"
+           x="137.04642"
+           y="703.53992"
+           style="fill:#f26959;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4579"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:HACKED;-inkscape-font-specification:HACKED;fill:#f26959;fill-opacity:1">CHARLA/DEMO/TALLER SOBRE RANSOMWARE Y REVERSING</flowPara></flowRoot>    <rect
+       style="opacity:0.46700003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4571-6"
+       width="1052.3622"
+       height="169.46147"
+       x="1.1053611e-05"
+       y="308.26773"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4559-0"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(2.6409691,0,0,3.9204008,-53.058743,44.24778)"><flowRegion
+         id="flowRegion4561-8"><rect
+           id="rect4563-5"
+           width="757.14288"
+           height="285.71429"
+           x="111.42857"
+           y="66.951622"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara4565-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.42200851px;font-family:HACKED;-inkscape-font-specification:HACKED;fill:#ffffff">Malware y reversing</flowPara><flowPara
+         style="font-size:25.42200851px;fill:#ffffff"
+         id="flowPara4569-9" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4573-4"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="translate(-25.973193,-289.73228)"><flowRegion
+         id="flowRegion4575-1"><rect
+           id="rect4577-5"
+           width="1079.5902"
+           height="219.55396"
+           x="137.04642"
+           y="703.53992"
+           style="fill:#cccccc;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara4579-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:HACKED;-inkscape-font-specification:HACKED;fill:#cccccc;fill-opacity:1;">TRAE TU WINDOWS Y TE LO RE-INFECTAMOS GRATIS</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4559-1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(2.2807258,0,0,3.3856357,529.69912,608.31108)"><flowRegion
+         id="flowRegion4561-5"><rect
+           id="rect4563-54"
+           width="757.14288"
+           height="285.71429"
+           x="111.42857"
+           y="66.951622"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.42200851px;font-family:HACKED;-inkscape-font-specification:HACKED;fill:#ffffff"
+         id="flowPara4761">25-05-2017</flowPara><flowPara
+         style="font-size:25.42200851px;fill:#ffffff"
+         id="flowPara4569-8" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4559-1-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.7579075,0,0,2.6095352,381.63981,743.12205)"><flowRegion
+         id="flowRegion4561-5-8"><rect
+           id="rect4563-54-5"
+           width="757.14288"
+           height="285.71429"
+           x="111.42857"
+           y="66.951622"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.42200851px;font-family:HACKED;-inkscape-font-specification:HACKED;fill:#ffffff"
+         id="flowPara4761-2">A LAS 19:30 comenzamos</flowPara><flowPara
+         style="font-size:25.42200851px;fill:#ffffff"
+         id="flowPara4569-8-2" /></flowRoot>  </g>
+</svg>
