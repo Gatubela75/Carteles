@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,21 +78,21 @@
       <image
          sodipodi:absref="/home/fanta/ingobernable/carteles/09062017-Borrado_de_discos_a_lo_barcenas_y_crimpado_de_cable_de_red/imgs/000.jpg"
          xlink:href="imgs/000.jpg"
-         y="449.76578"
-         x="10"
-         id="image4206"
-         preserveAspectRatio="none"
+         width="759.9115"
          height="602.59644"
-         width="759.9115" />
+         preserveAspectRatio="none"
+         id="image4206"
+         x="10"
+         y="449.76578" />
       <image
          sodipodi:absref="/home/fanta/ingobernable/carteles/09062017-Borrado_de_discos_a_lo_barcenas_y_crimpado_de_cable_de_red/imgs/003.jpg"
          xlink:href="imgs/003.jpg"
-         y="459.43359"
-         x="764.19733"
-         id="image4390"
-         preserveAspectRatio="none"
+         width="377.5"
          height="563.51886"
-         width="377.5" />
+         preserveAspectRatio="none"
+         id="image4390"
+         x="764.19733"
+         y="459.43359" />
     </g>
     <g
        id="g4393"
@@ -152,5 +152,5 @@
            y="126.95162"
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Systematic J';-inkscape-font-specification:'Systematic J';text-align:start;text-anchor:start"
-         id="flowPara4329">09 JUNIO                    A LAS 9:30</flowPara></flowRoot>  </g>
+         id="flowPara4329">09 JUNIO                  A LAS 19:30</flowPara></flowRoot>  </g>
 </svg>
